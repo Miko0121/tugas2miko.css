@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2{
+    color: red;
+}
+
+ul li a{
+    color: brown;
+}
+
+ol li a{
+    color: green;
+}
+
+#p1 {
+    color: grey;
+}
+
+.p2{
+    color: cyan;
+}
+
+.cetak{
+    font-weight: bold;
+}
+
+p.cetak {
+    font-size: 25px;
+}
